@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=ffff&height=150&section=header&text=Hey%20There%20👀🤗!&fontSize=100&fontColor=00000)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=ffff&height=150&section=header&text=Hey%20There!%20👀🤗&fontSize=100&fontColor=00000)
 
 # Lets Connect
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/issa-khafaga/)
