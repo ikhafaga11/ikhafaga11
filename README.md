@@ -4,7 +4,6 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/issa-khafaga/)
 
 
-
 I still remember the first time our family bought a computer back in **1998**. It came in boxes, and my parents spent hours reading the manual and putting it together. When the PC finally came to life, the whole family gathered in the living room, watching my dad explore **Paint** like it was magic. 🖌️✨
 
 ![elmo-paint](https://github.com/ikhafaga11/ikhafaga11/raw/main/assets/elmo-paint.gif)
@@ -40,8 +39,9 @@ This is just the beginning of my journey — and I’m excited to share it with 
 | Acebook | Group project: Facebook mockup. Features posts, likes, and user profiles. Completed in 2 weeks. | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  | Done ✅ | Repo Only | [GitHub](https://github.com/ikhafaga11/acebook) |
 | MakersBnB | Group project: Airbnb mockup. Users can list and book properties. Completed in 2 weeks.| ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | Done ✅ | Repo Only | [GitHub](https://github.com/ikhafaga11/makersbnb) |
 
-**Deployment & DevOps:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&label=Docker%20Container)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&label=EC2%20with%20Elastic%20IP)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&label=Nginx%20Server)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-000000?style=for-the-badge&logo=gunicorn&logoColor=white&label=Gunicorn%20WSGI)
+## Deployment & DevOps:
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-000000?style=for-the-badge&logo=gunicorn&logoColor=white)
